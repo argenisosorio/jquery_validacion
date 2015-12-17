@@ -27,3 +27,7 @@ En el directorio descargado, en la carpeta
 y en (plantillas) está el fichero (index.html)
 que abriremos con el navegador web para probar
 las funcionalidades de la validación.
+
+En (plantillas > index2.html) se encuentra un ejemplo similar
+pero agrega estructura de decisión y alertas
+para hacer pruebas con el formulario.
