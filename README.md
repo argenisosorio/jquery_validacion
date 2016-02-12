@@ -1,15 +1,14 @@
-#########################
-##### Creado por dM #####
-#########################
+#Jquery Validación
 
--- Librerías: --
+Creado por dM
 
-*jquery-1.9.1.js
-*jquery.validate.js
+##Librerías:
 
--- Descripción --
+- jquery-1.9.1.js
+- jquery.validate.js
 
-(Jquery Validación)
+##Descripción
+
 Basado en la librería jquery.validate
 de --> http://jqueryvalidation.org/
 donde encontrarán la documentacion completa.
@@ -20,7 +19,7 @@ antes de ser enviados al servidor, permite
 validar los campos vacíos, máximo y mínimo de 
 caracteres, emails, fechas y mas.
 
--- Pasos de instalación --
+##Instalación
 
 En el directorio descargado, en la carpeta
 (js) se encuentran las 2 librerías a usar
